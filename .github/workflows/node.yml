@@ -17,9 +17,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '10.x'
-      - shell: bash
-        run: |
-        cp ".env-example" ".env"
+      - name: Set up environment
+        run: cp ".env-example" ".env"
       - name: Install dependencies
         run: npm ci
       - run: npm run build --if-present
