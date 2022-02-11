@@ -12,7 +12,7 @@ module.exports = {
 
    solidity: "0.8.11",
 
-   defaultNetwork: "ropsten",
+   defaultNetwork: "hardhat",
 
    networks: {
 
