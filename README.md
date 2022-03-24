@@ -1,7 +1,7 @@
 # Burn Contract
 
 ## About
-Burn Contract is a bare metal Ethereum smart contract written in Solidity. Its only function is to receive ETH, which then is irrevocably locked in the contract (=burned).
+Burn Contract is a bare metal Ethereum smart contract template written in Solidity. Its only function is to receive ETH, which then is irrevocably locked in the contract (=burned).
 Also, as an eternal epitaph, an event signaling the burning is emitted.
 
 ## Developing
