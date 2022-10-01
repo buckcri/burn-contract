@@ -15,7 +15,7 @@
     "chai-bignumber": "^3.0.0",
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.7.1",
-    "hardhat": "^2.10.2"
+    "hardhat": "^2.11.2"
   },
   "dependencies": {
     "dotenv": "^16.0.3"
